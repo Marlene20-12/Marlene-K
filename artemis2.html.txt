@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Artemis 2</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani&display=swap" rel="stylesheet">
+
+  <style>
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  font-size: 12px;
+  color: #94A3B8;
+  background-color: #020617;
+}
+
+body {
+      background-color: #0B0F1A;
+      color: #E2E8F0;
+      font-family: 'Rajdhani', sans-serif;
+      margin: 0;
+  background-image: url("https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=80");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+   
+
+nav {
+  background-color: #020617;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 15px;
+  overflow-x: auto;
+}
+
+nav a {
+  color: #E2E8F0;
+  text-decoration: none;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+nav a:hover {
+  color: #38BDF8;
+}
+
+    h1 {
+      text-align: center;
+      font-size: clamp(32px, 6vw, 60px);
+      margin-top: 50px;
+      color: #38BDF8;
+      font-weight: 800;
+      letter-spacing: 2px;
+      text-shadow: 0 0 20px rgba(56, 189, 248, 0.4);
+    }
+
+    p {
+      max-width: 800px;
+      margin: 20px auto;
+      line-height: 1.6;
+      font-size: 18px;
+      padding: 15px;
+      background-color: #111827;
+      border-radius: 10px;
+    }
+
+    .hero {
+      width: 100%;
+      height: 420px;
+      object-fit: cover;
+    }
+
+    .img {
+      display: block;
+      width: 90%;
+      max-width: 850px;
+      margin: 25px auto;
+      border-radius: 12px;
+    }
+
+  </style>
+
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Das Artemis Programm</a> |
+  <a href="artemis1.html">Artemis 1</a> |
+  <a href="artemis2.html">Artemis 2</a> |
+  <a href="artemis3.html">Artemis 3</a> |
+  <a href="raketenaufbau.html">Raketenaufbau</a> |
+ <a href="Quellen.html">Quellen</a>
+</nav>
+
+<h1>Artemis 2🚀</h1>
+<p> Artemis II ist die <b>zweite Mission des NASA-Artemis-Programms</b> und die <b>erste bemannte Mondmission dieser neuen Programmreihe</b>. Sie stellt den ersten Flug seit dem Ende des Apollo-Programms dar, bei dem Menschen die niedrige Erdumlaufbahn verlassen und in Richtung Mond reisen. </p>
+
+<p> Die Mission startete am <b>1. April 2026 vom Kennedy Space Center in Florida</b>. Dabei brachte die <b>Space Launch System</b> (SLS = Schwerlastrakete, eine besonders leistungsstarke Rakete für Tiefraummissionen) das <b>Orion-Raumschiff</b> (bemanntes Raumfahrzeug in Form einer Raumkapsel für den Transport von Astronauten) <b>erfolgreich ins All.</b> </p>
+
+<img class="img" src= https://commons.wikimedia.org/wiki/File:Orion_spacecraft_in_space_(concept).jpg>
+
+<p> Nach dem Start erreichte das Raumschiff zunächst die Erdumlaufbahn, wo alle Systeme unter <b>realen Bedingungen mit Besatzung getestet wurden</b>. Anschließend erfolgte der Kurs in Richtung Mond durch das sogenannte <b>Trans Lunar Injection</b> (TLI = Triebwerkszündung, die das Raumschiff auf eine Flugbahn zum Mond bringt). </p>
+
+<p> Die Orion-Kapsel fliegt dabei auf einer <b>Free Return Trajectory</b> (freie Rückkehrbahn = Flugbahn, bei der die Gravitation von Mond und Erde so genutzt wird, dass das Raumschiff automatisch zur Erde zurückkehrt, ohne zusätzliche Kurskorrekturen). Die Crew <b>umrundet den Mond ohne Landung</b> und kehrt anschließend zur Erde zurück, wo die Kapsel im Pazifik landet. </p>
+
+<img class="img" src= https://commons.wikimedia.org/wiki/File:Artemis_program_illustration.jpg>
+
+<p> Ein zentrales Ziel der Mission ist <b>der Test aller Systeme mit Menschen im tiefen Weltraum.</b> Dazu gehören <b>Lebenserhaltungssysteme</b>(Sauerstoffversorgung, Temperatur- und Druckkontrolle), <b>Navigation</b>, <b>Kommunikation über große Entfernungen</b> sowie die <b>Stabilität des Raumfahrzeugs unter Strahlung und Schwerelosigkeit.</b> Besonders wichtig ist die Untersuchung der <b>Auswirkungen auf den menschlichen Körper</b>, insbesondere auf <b>Muskeln, Knochen</b> und das <b>Herz-Kreislauf-System</b>. </p>
+
+<p> Artemis II ist damit ein <b>entscheidender Schritt</b> zwischen dem <b>unbemannten Testflug Artemis I</b> und der <b>geplanten Mondlandung bei Artemis III</b> und liefert <b>wichtige Daten📉 für zukünftige bemannte Missionen zum Mond und darüber hinaus.</b> </p>
+
+<footer>
+  <p><b>Erstellt von:</b> Marlene Kroke</p>
+  <p>Projekt: Artemis Programm-Webseite</p>
+  <p>Quellen: NASA (www.nasa.gov), ESA (www.esa.int)</p>
+</footer>
+
+</body>
+</html>

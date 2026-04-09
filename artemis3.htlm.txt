@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+ <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Artemis 3</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani&display=swap" rel="stylesheet">
+
+  <style>
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  font-size: 12px;
+  color: #94A3B8;
+  background-color: #020617;
+}
+
+   body {
+      background-color: #0B0F1A;
+      color: #E2E8F0;
+      font-family: 'Rajdhani', sans-serif;
+      margin: 0;
+  background-image: url("https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=80");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+nav {
+  background-color: #020617;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 15px;
+  overflow-x: auto;
+}
+
+nav a {
+  color: #E2E8F0;
+  text-decoration: none;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+nav a:hover {
+  color: #38BDF8;
+}
+
+    h1 {
+      text-align: center;
+      font-size: clamp(32px, 6vw, 60px);
+      margin-top: 50px;
+      color: #38BDF8;
+      font-weight: 800;
+      letter-spacing: 2px;
+      text-shadow: 0 0 20px rgba(56, 189, 248, 0.4);
+    }
+
+    p {
+      max-width: 800px;
+      margin: 20px auto;
+      line-height: 1.6;
+      font-size: 18px;
+      padding: 15px;
+      background-color: #111827;
+      border-radius: 10px;
+    }
+
+    .hero {
+      width: 100%;
+      height: 420px;
+      object-fit: cover;
+    }
+
+    .img {
+      display: block;
+      width: 90%;
+      max-width: 850px;
+      margin: 25px auto;
+      border-radius: 12px;
+    }
+
+  </style>
+
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Das Artemis Programm</a> |
+  <a href="artemis1.html">Artemis 1</a> |
+  <a href="artemis2.html">Artemis 2</a> |
+  <a href="artemis3.html">Artemis 3</a> |
+  <a href="raketenaufbau.html">Raketenaufbau</a> |
+ <a href="Quellen.html">Quellen</a>
+</nav>
+
+<h1>Artemis 3🚀</h1>
+<p> Artemis III</b> ist die <b>dritte Mission </b> des <b> NASA-Artemis-Programms </b> und soll die <b> erste bemannte Mondlandung seit Apollo 17 (1972) ermöglichen </b>. </p>
+
+<img class="img" src= https://commons.wikimedia.org/wiki/File:Artemis_III_lunar_landing_concept.jpg>
+
+<p> Wie bereits bei den vorherigen Missionen kommt das System aus <b> Space Launch System </b> (SLS = Schwerlastrakete für den Transport großer Nutzlasten ins All) und dem <b> Orion-Raumschiff </b> (bemanntes Raumfahrzeug / Raumkapsel für den Transport von Astronauten in den Mondraum) zum Einsatz. </p>
+
+<p> Nach dem Start fliegt die Crew zunächst in eine Erdumlaufbahn und anschließend durch das sogenannte <b> Trans Lunar Injection </b> (TLI = Triebwerkszündung, die das Raumschiff auf Kurs zum Mond bringt) in Richtung Mond. </p>
+
+<p> Im Mondorbit erfolgt das <b> Andocken </b> an ein <b> separates Landemodul </b>, das die <b> Astronauten zur Mondoberfläche bringt. </b> Dieses <b> Landemodul basiert auf </b> dem <strong>SpaceX Starship</strong>(wiederverwendbares Raumfahrzeug für Mond- und Marsmissionen). </p>
+
+<img class="img" src= https://commons.wikimedia.org/wiki/File:NASA_Artemis_Moon_Landing_Render.jpg>
+
+<p> Die Landung soll im Bereich des <b> Mond-Südpols </b> stattfinden, einer Region mit <b> besonderem wissenschaftlichem Interesse </b>, da dort <b> Wassereis in dauerhaft schattigen Kratern vermutet wird. </b> Dieses könnte in Zukunft zu Wasser, Sauerstoff und Raketentreibstoff verarbeitet werden. </p>
+
+
+
+<p> Ein zentrales Ziel der Mission ist die <b> Extra-Vehicular Activity </b> (EVA = Arbeiten außerhalb des Raumfahrzeugs, also Mondspaziergänge). Dabei werden <b> Gesteinsproben gesammelt </b> und <b> wissenschaftliche Experimente durchgeführt </b>. </p>
+
+<p> Artemis III verfolgt außerdem ein <b> historisches Ziel </b>: Die <b> erste Frau </b> und die <b> erste Person of Color </b> sollen auf der Mondoberfläche landen. </p>
+
+<p> Die Mission ist ein <b> entscheidender Schritt </b> für den Aufbau einer <b> dauerhaften menschlichen Präsenz auf dem Mond </b> und dient als <b> Vorbereitung für zukünftige Missionen zum Mars. </b> </p>
+
+ <p> Der derzeit geplante Start von Artemis III ist <b> frühestens </b> für <b> 2027 </b> angesetzt (abhängig von technischen Tests, insbesondere des Landers und der Missionsfreigaben). </p>
+
+<footer>
+  <p><b>Erstellt von:</b> Marlene Kroke</p>
+  <p>Projekt: Artemis Programm-Webseite</p>
+  <p>Quellen: NASA (www.nasa.gov), ESA (www.esa.int)</p>
+</footer>
+
+</body>
+</html>

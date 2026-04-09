@@ -1,0 +1,141 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Das Artemis Programm</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani&display=swap" rel="stylesheet">
+
+  <style>
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  font-size: 12px;
+  color: #94A3B8;
+  background-color: #020617;
+}
+
+    body {
+      background-color: #0B0F1A;
+      color: #E2E8F0;
+      font-family: 'Rajdhani', sans-serif;
+      margin: 0;
+  background-image: url("https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=80");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+nav {
+  background-color: #020617;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 15px;
+  overflow-x: auto;
+}
+
+nav a {
+  color: #E2E8F0;
+  text-decoration: none;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+nav a:hover {
+  color: #38BDF8;
+}
+
+    h1 {
+      text-align: center;
+      font-size: clamp(32px, 6vw, 70px);
+      margin-top: 50px;
+      color: #38BDF8;
+      font-weight: 800;
+      letter-spacing: 2px;
+      text-shadow: 0 0 20px rgba(56, 189, 248, 0.4);
+    }
+
+    p {
+      max-width: 800px;
+      margin: 20px auto;
+      line-height: 1.6;
+      font-size: 18px;
+      padding: 15px;
+      background-color: #111827;
+      border-radius: 10px;
+    }
+
+    .hero {
+      width: 100%;
+      height: 420px;
+      object-fit: cover;
+    }
+
+    .img {
+      display: block;
+      width: 90%;
+      max-width: 850px;
+      margin: 25px auto;
+      border-radius: 12px;
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+<nav>
+  <a href="index.html">Das Artemis Programm</a> |
+  <a href="artemis1.html">Artemis 1</a> |
+  <a href="artemis2.html">Artemis 2</a> |
+  <a href="artemis3.html">Artemis 3</a> |
+  <a href="raketenaufbau.html">Raketenaufbau</a> |
+  <a href="quellen.html">Quellen</a>
+</nav>
+
+<img class="hero" src= „nasa-xFO2Xt33xgI-unsplash.jpg“>
+
+<h1>Zurück zum Mond🌕</h1>
+
+<p>
+Das Artemis-Programm der NASA hat das Ziel, Menschen wieder zum Mond zu bringen und dort eine dauerhafte Präsenz aufzubauen. Dabei geht es nicht nur um einzelne Missionen, sondern um einen langfristigen Aufbau einer Infrastruktur auf dem Mond. Diese soll zukünftige Raumfahrten unterstützen und als Testfeld für Missionen zum Mars dienen.
+</p>
+
+<img class="img" src= „nasa-irRpXAC30fE-unsplash.jpg“>
+
+<p>
+Im Fokus steht die Rückkehr von Astronauten zur Mondoberfläche, erstmals seit der Apollo-Ära im Jahr 1972. Anders als bei früheren Missionen sollen die Aufenthalte deutlich länger dauern. Außerdem plant man den Aufbau einer möglichen Mondbasis, vor allem am Südpol, wo man Wassereis vermutet, das für Trinkwasser, Sauerstoff und Treibstoff genutzt werden kann.
+</p>
+
+<img class="img" src= „nasa-UeSpvB0Qo88-unsplash.jpg“>
+
+<p>
+Technisch basiert Artemis auf der Space Launch System (SLS) Rakete und dem Orion-Raumschiff. Diese Systeme sollen Menschen sicher zum Mond und wieder zurück bringen. Zusätzlich wird das Lunar Gateway entwickelt, eine kleine Raumstation im Mondorbit, die als Zwischenstation für Missionen dient. Auch internationale Partner wie ESA, CSA und JAXA sowie private Unternehmen wie SpaceX spielen eine wichtige Rolle.
+</p>
+
+<img class="img" src= „nasa-Yj1M5riCKk4-unsplash.jpg“>
+
+<p>
+Langfristig verfolgt das Artemis-Programm das Ziel, eine dauerhafte Präsenz auf dem Mond zu schaffen. Dort sollen neue Technologien getestet und Erfahrungen gesammelt werden, um zukünftige bemannte Missionen zum Mars vorzubereiten. Damit ist Artemis ein wichtiger Schritt für die Zukunft der Raumfahrt und die Erforschung des Sonnensystems.
+</p>
+
+<p><b>Artemis bedeutet: zurück zum Mond🌕, bleiben lernen📑 und weiter zum Mars 🪐</b></p>
+
+<footer>
+  <p><b>Erstellt von:</b> Marlene Kroke</p>
+  <p>Projekt: Artemis Programm-Webseite</p>
+  <p>Quellen: NASA (www.nasa.gov), ESA (www.esa.int)</p>
+</footer>
+
+</body>
+</html>

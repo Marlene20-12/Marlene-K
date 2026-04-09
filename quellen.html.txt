@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Quellen – Artemis Programm</title>
+
+    <style>
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  font-size: 12px;
+  color: #94A3B8;
+  background-color: #020617;
+}
+
+        body {
+            background-color: #0B0F1A;
+            color: #E2E8F0;
+            font-family: Arial, sans-serif;
+            margin: 0;
+  background-image: url("https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=80");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+nav {
+  background-color: #020617;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 15px;
+  overflow-x: auto;
+}
+
+nav a {
+  color: #E2E8F0;
+  text-decoration: none;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+nav a:hover {
+  color: #38BDF8;
+}
+
+        h1 {
+            text-align: center;
+            margin-top: 30px;
+            color: #38BDF8;
+            font-size: clamp(32px, 6vw, 60px);
+        }
+
+        h2 {
+            max-width: 800px;
+            margin: 25px auto 10px auto;
+            font-size: clamp(32px, 6vw, 60px);
+        }
+
+        p {
+            max-width: 800px;
+            margin: 10px auto;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        ul {
+            max-width: 800px;
+            margin: 10px auto 25px auto;
+            padding-left: 20px;
+        }
+
+        a {
+            color: #E2E8F0;
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: #38BDF8;
+        }
+    </style>
+</head>
+
+<body>
+
+<nav>
+  <a href="index.html">Artemis Programm</a> |
+  <a href="artemis1.html">Artemis 1</a> |
+  <a href="artemis2.html">Artemis 2</a> |
+  <a href="artemis3.html">Artemis 3</a> |
+  <a href="raketenaufbau.html">Raketenaufbau</a> |
+  <a href="quellen.html">Quellen</a>
+</nav>
+
+<h1>Quellen💻</h1>
+
+<p>Dies sind die Quellen für die verwendeten Informationen:</p>
+
+<h2>Allgemein👩‍🚀</h2>
+<ul>
+<li><a href="https://www.nasa.gov/artemisprogram/" target="_blank">NASA Artemis Programm</a></li>
+</ul>
+
+<h2>Artemis I🚀</h2>
+<ul>
+<li><a href="https://www.nasa.gov/mission/artemis-i/" target="_blank">NASA Artemis I</a></li>
+</ul>
+
+<h2>Artemis II🚀</h2>
+<ul>
+<li><a href="https://www.nasa.gov/mission/artemis-ii/" target="_blank">NASA Artemis II</a></li>
+</ul>
+
+<h2>Artemis III🚀</h2>
+<ul>
+<li><a href="https://www.nasa.gov/mission/artemis-iii/" target="_blank">NASA Artemis III</a></li>
+</ul>
+
+<h2>Raketen & Technik👩🏼‍💻🛰️</h2>
+<ul>
+<li><a href="https://www.nasa.gov/sls" target="_blank">Space Launch System</a></li>
+<li><a href="https://www.nasa.gov/orion" target="_blank">Orion Raumschiff</a></li>
+</ul>
+
+<footer>
+  <p><b>Erstellt von:</b> Marlene Kroke</p>
+  <p>Projekt: Artemis Programm-Webseite</p>
+  <p>Quellen: NASA (www.nasa.gov), ESA (www.esa.int)</p>
+</footer>
+
+</body>
+</html>

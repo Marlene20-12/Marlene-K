@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Artemis 1</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani&display=swap" rel="stylesheet">
+
+  <style>
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  font-size: 12px;
+  color: #94A3B8;
+  background-color: #020617;
+}
+
+
+ body {
+      background-color: #0B0F1A;
+      color: #E2E8F0;
+      font-family: 'Rajdhani', sans-serif;
+      margin: 0;
+  background-image: url("https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=80");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+nav {
+  background-color: #020617;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 15px;
+  overflow-x: auto;
+}
+
+nav a {
+  color: #E2E8F0;
+  text-decoration: none;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+nav a:hover {
+  color: #38BDF8;
+}
+
+    h1 {
+      text-align: center;
+      font-size: clamp(32px, 6vw, 60px);
+      margin-top: 50px;
+      color: #38BDF8;
+      font-weight: 800;
+      letter-spacing: 2px;
+      text-shadow: 0 0 20px rgba(56, 189, 248, 0.4);
+    }
+
+    p {
+      max-width: 800px;
+      margin: 20px auto;
+      line-height: 1.6;
+      font-size: 18px;
+      padding: 15px;
+      background-color: #111827;
+      border-radius: 10px;
+    }
+
+    .hero {
+      width: 100%;
+      height: 420px;
+      object-fit: cover;
+    }
+
+    .img {
+      display: block;
+      width: 90%;
+      max-width: 850px;
+      margin: 25px auto;
+      border-radius: 12px;
+    }
+
+  </style>
+
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Das Artemis Programm</a> |
+  <a href="artemis1.html">Artemis 1</a> |
+  <a href="artemis2.html">Artemis 2</a> |
+  <a href="artemis3.html">Artemis 3</a> |
+  <a href="raketenaufbau.html">Raketenaufbau</a> |
+ <a href="Quellen.html">Quellen</a>
+</nav>
+
+<h1>Artemis 1 🚀</h1>
+<p> Artemis 1 war die erste Mission des NASA-Artemis-Programms und diente als unbemannter Testflug für das neue Mondsystem. Sie <b>startete am 16. November 2022 vom Kennedy Space Center in Florida und dauerte insgesamt rund 25 Tage.</b> Ziel der Mission war es, alle wichtigen Systeme für zukünftige bemannte Mondflüge unter realen Bedingungen zu testen. </p>
+
+<img class="img" src=https://commons.wikimedia.org/wiki/File:NASA_Artemis_1_Launch.jpg>
+
+<p> Zum Einsatz kamen dabei zwei zentrale Bestandteile: die <b>Space Launch System</b> (SLS = Schwerlastrakete, also eine besonders leistungsstarke Rakete für große Nutzlasten) und das <b>Orion-Raumschiff</b> (eine Raumkapsel, die später Astronauten transportieren soll). Die SLS brachte Orion in den Weltraum und auf Kurs zum Mond. </p>
+
+<p> Während der Mission flog Orion zunächst in die Erdumlaufbahn und anschließend weiter in Richtung Mond. Dort umrundete die Kapsel den Mond in einer sehr weiten, stabilen Umlaufbahn, dem sogenannten <b>Distant Retrograde Orbit</b> (DRO = eine spezielle Mondumlaufbahn mit großer Entfernung und hoher Stabilität). Danach trat Orion den Rückflug zur Erde an. </p>
+
+<img class="img" src=https://commons.wikimedia.org/wiki/File:Launch_of_Artemis_1_(NHQ202211160006).jpg >
+
+<p> Ein wichtiger Teil der Mission war das <b>Testen der Sicherheitssysteme.</b> Dazu gehörten unter anderem der <b>Hitzeschild</b>, der die Kapsel beim Wiedereintritt in die Erdatmosphäre vor extremen Temperaturen von bis zu etwa 2.800 °C schützt, sowie die <b>Belastung der Struktur bei hohen Geschwindigkeiten</b> von rund 40.000 km/h. </p>
+
+<p> An Bord befanden sich <b>keine Astronauten</b>, sondern <b>Testsysteme</b> wie die Puppe „Moonikin Campos“, die Daten zu Strahlung, Beschleunigung und Vibrationen lieferte. Zusätzlich wurden <b>kleine Forschungssatelliten</b>(CubeSats = Mini-Satelliten für wissenschaftliche Experimente) <b>mitgeführt</b>, die unterschiedliche Messungen im All durchführten. </p>
+
+<img class="img" src= https://commons.wikimedia.org/wiki/File:Artemis_I_Launch.jpg>
+
+<p> Artemis I war insgesamt ein <b>voller Erfolg</b>, da alle wichtigen Systeme funktionierten und die Orion-Kapsel sicher im Pazifik wasserte. Die gesammelten Daten sind entscheidend für die nächsten Schritte des Programms, insbesondere für Artemis II mit Astronauten und Artemis III mit einer geplanten Mondlandung. </p>
+
+<footer>
+  <p><b>Erstellt von:</b> Marlene Kroke</p>
+  <p>Projekt: Artemis Programm-Webseite</p>
+  <p>Quellen: NASA (www.nasa.gov), ESA (www.esa.int)</p>
+</footer>
+
+</body>
+</html>

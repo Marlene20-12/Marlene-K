@@ -1,0 +1,120 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+ <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Raketenaufbau</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani&display=swap" rel="stylesheet">
+
+  <style>
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  font-size: 12px;
+  color: #94A3B8;
+  background-color: #020617;
+}
+
+ body {
+      background-color: #0B0F1A;
+      color: #E2E8F0;
+      font-family: 'Rajdhani', sans-serif;
+      margin: 0;
+  background-image: url("https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=80");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+nav {
+  background-color: #020617;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 15px;
+  overflow-x: auto;
+}
+
+nav a {
+  color: #E2E8F0;
+  text-decoration: none;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+nav a:hover {
+  color: #38BDF8;
+}
+
+    h1 {
+      text-align: center;
+      font-size: clamp(32px, 6vw, 60px);
+      margin-top: 50px;
+      color: #38BDF8;
+      font-weight: 800;
+      letter-spacing: 2px;
+      text-shadow: 0 0 20px rgba(56, 189, 248, 0.4);
+    }
+
+    p {
+      max-width: 800px;
+      margin: 20px auto;
+      line-height: 1.6;
+      font-size: 18px;
+      padding: 15px;
+      background-color: #111827;
+      border-radius: 10px;
+    }
+
+  </style>
+
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Das Artemis Programm</a> |
+  <a href="artemis1.html">Artemis 1</a> |
+  <a href="artemis2.html">Artemis 2</a> |
+  <a href="artemis3.html">Artemis 3</a> |
+  <a href="raketenaufbau.html">Raketenaufbau</a> |
+ <a href="Quellen.html">Quellen</a>
+</nav>
+
+<h1> Der Raketenaufbau der Artemis Missionen🛰️ </h1>
+
+<p> Der Raketenaufbau des NASA-Artemis-Programms basiert im Kern auf einem gemeinsamen Transportsystem, das für alle Missionen von Artemis I bis Artemis III verwendet wird. Dieses System besteht aus mehreren Hauptkomponenten, die unterschiedliche Aufgaben im Flug übernehmen. </p>
+
+<p> Die wichtigste Trägerrakete ist das <b>Space Launch System</b> (SLS = Schwerlastrakete der NASA, entwickelt für Missionen außerhalb der Erdumlaufbahn). Sie ist die <b>stärkste</b> jemals gebaute Rakete der NASA und dient dazu, das Raumschiff aus der Erdgravitation in den Weltraum zu bringen. Die SLS besteht aus einer <b>Zentralstufe </b>, die die <b> Haupttriebwerke </b>  enthält, sowie <b> zwei Feststoff-Boostern </b> (Feststoffraketen = zusätzliche Antriebe, die beim Start für sehr viel Schub sorgen und nach wenigen Minuten abgetrennt werden). </p>
+
+<img class="img" src= https://commons.wikimedia.org/wiki/File:Space_Launch_System_Block_1_diagram.jpg>
+
+<p> Auf der Oberseite der SLS befindet sich die sogenannte <b> Interim Cryogenic Propulsion Stage </b> (ICPS = obere Raketenstufe mit kryogenem Treibstoff, also extrem kalt gelagertem flüssigem Wasserstoff und Sauerstoff). Diese Stufe bringt die Nutzlast von der Erdumlaufbahn weiter auf Kurs zum Mond. </p>
+
+<p> Die eigentliche Nutzlast ist das <b> Orion-Raumschiff </b> (bemanntes Raumfahrzeug in Form einer Raumkapsel für den Transport von Astronauten). Orion besteht aus zwei Teilen: dem <b> Crew-Modul </b>(Druckkabine für die Astronauten mit Lebenserhaltungssystemen wie Sauerstoffversorgung, Temperatur- und Druckkontrolle) und dem <b> Service-Modul </b> (Bereich mit Antriebssystemen, Energieversorgung durch Solarpaneele und weiteren technischen Systemen). </p>
+
+<img class="img" src= https://commons.wikimedia.org/wiki/File:SLS_Rocket_Stacking.jpg>
+
+<p> Für Artemis I wurde Orion noch <b> unbemannt </b> getestet, während Artemis II und Artemis III mit Astronauten fliegen. Der Aufbau der Rakete bleibt dabei grundsätzlich <b> gleich, aber die <b> Anforderungen steigen </b> mit jeder Mission. </p>
+
+<p> Ein zusätzlicher wichtiger Bestandteil bei Artemis III ist das <b> Human Landing System </b>(HLS = Mondlandesystem für Astronauten). Dieses wird nicht von der SLS transportiert und landet nicht direkt auf der Erde, sondern ist im Mondorbit stationiert. Dort dockt Orion an und die Astronauten steigen in das Landemodul um. Dieses System basiert auf dem <b> SpaceX Starship </b> (wiederverwendbares Raumschiff für Mond- und Marslandungen), das speziell für die Mondoberfläche angepasst wird. </p>
+
+<p> Der Ablauf ist bei allen Missionen ähnlich: Die SLS startet von der Erde, bringt Orion in eine Erdumlaufbahn und beschleunigt das System anschließend durch das sogenannte <b>Trans Lunar Injection </b>(TLI = Triebwerkszündung, die das Raumschiff auf eine Flugbahn zum Mond bringt). Danach trennt sich die obere Stufe, und nur das Orion-Raumschiff fliegt weiter in Richtung Mond. </p>
+
+<p> Zusammengefasst ist der Artemis-Raketenaufbau ein <b>mehrstufiges System </b> aus Schwerlastrakete, Oberstufe und Raumkapsel, das je nach Mission durch ein zusätzliches Mondlandesystem erweitert wird. Dieses modulare Design ermöglicht sowohl unbemannte Tests als auch bemannte Mondflüge und zukünftige Landungen auf der Mondoberfläche. </p>
+
+<footer>
+  <p><b>Erstellt von:</b> Marlene Kroke</p>
+  <p>Projekt: Artemis Programm-Webseite</p>
+  <p>Quellen: NASA (www.nasa.gov), ESA (www.esa.int)</p>
+</footer>
+
+</body>
+</html>
